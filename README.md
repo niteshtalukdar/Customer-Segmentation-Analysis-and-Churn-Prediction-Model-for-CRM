@@ -138,4 +138,4 @@ Python, pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn, Jupyter.
 
 ## Author
 
-[Your name] · [LinkedIn] · [email]
+Nitesh Talukdar · www.linkedin.com/in/niteshtalukdar · niteshtalukdar25@gmail.com
